@@ -1,0 +1,4 @@
+streamlit==1.10.0         # For the web application interface
+openai==0.10.2            # OpenAI's library for API access
+langchain==0.1.0          # Library for interfacing with language models
+python-dotenv==0.19.2     # To manage environment variables securely
